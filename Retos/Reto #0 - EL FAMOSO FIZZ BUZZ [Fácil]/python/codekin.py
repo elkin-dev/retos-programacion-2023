@@ -19,6 +19,5 @@ def fizzbuzz(start, end):
         else:
             print(number)
 
-
 if __name__ == "__main__":
     fizzbuzz(1, 100)

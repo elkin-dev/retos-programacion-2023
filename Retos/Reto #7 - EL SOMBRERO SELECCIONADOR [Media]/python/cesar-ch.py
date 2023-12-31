@@ -50,7 +50,7 @@ preguntas = {
     }
 }
 
-print("¡Bienvenido al Sombrero Seleccionador de Hogwarts!")
+print("¡Bienvenido al Sombrero Seleccionador de Hogwarts!") 
 for pregunta, respuestas in preguntas.items():
     print(pregunta)
     for res, option in respuestas.items():

@@ -44,7 +44,6 @@ def fizzbuzz(start, end):
         else:
             print(number)
 
-
 if __name__ == "__main__":
     fizzbuzz(1, 100)
 >>>>>>> 0bd83db74 (Reto #0 FIZZBUZZ)
